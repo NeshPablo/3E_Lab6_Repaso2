@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace _3E_Lab6_Repaso2
 {
-    internal class Vehiculo
+    internal class DatosCliente
     {
-        public string Nombre1 { get; set; }
+        public string Name { get; set; }
         public int Placa { get; set; }
         public string Marca { get; set; }
         public int Modelo { get; set; }
         public string Color { get; set; }
-        public int PrecioPorKm { get; set; }
-        public int krecorridos { get; set; }
+        public string Fechadev { get; set; }
+        public int PagoTotal {get; set;}
 
     }
 }
