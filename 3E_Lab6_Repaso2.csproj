@@ -46,9 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DatosCliente.cs" />
-    <Compile Include="Dato.cs" />
-    <Compile Include="Vehiculo.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
